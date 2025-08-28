@@ -38,7 +38,7 @@ It covers the **attack lifecycle** (recon → enumeration → exploitation → p
 ## 🧩 Key Takeaways  
 - Offensive security follows a **structured methodology**, not random guessing.  
 - Enumeration tools like `dirb` and `gobuster` are essential for uncovering hidden web content.  
-- Understanding multiple tools for the same task is valuable — sometimes speed matters, sometimes simplicity does.  
+- Understanding multiple tools for the same task is valuable. Sometimes speed matters, sometimes simplicity does.  
 
 ---
 
