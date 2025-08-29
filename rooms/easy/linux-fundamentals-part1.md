@@ -2,7 +2,7 @@
 
 **Difficulty**: Easy  
 **Tags**: Linux, Command Line, Pre-Security  
-**Date Completed**: 17/08/2025 
+**Date Completed**: 18/08/2025 
 
 ---
 
